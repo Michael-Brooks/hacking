@@ -1,5 +1,25 @@
+body {
+  background-color: #f7fafc;
+  font-family: "Barlow", sans-serif;
+  margin-top: 70px;
+}
 
+p {
+  color: #718096;
+}
 
-body{
-    background-color: #F7FAFC;
+.btn-hacktober {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  color: black;
+  background-color: #63b3ed;
+  box-shadow: 3px 5px;
+}
+
+.card-custom {
+  box-shadow: 3px 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
 }
